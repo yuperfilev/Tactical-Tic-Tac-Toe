@@ -1,0 +1,6 @@
+# Visual Studio
+.vs/
+
+# General
+obj/
+bin/debug
